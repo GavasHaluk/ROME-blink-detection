@@ -20,5 +20,3 @@
 * The usage of the Gui is explained in blink_readme.txt
 # License
 * ROME System is licensed under GNU General Public License v3.0
-
-#Bearcats4Life
